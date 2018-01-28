@@ -1,9 +1,7 @@
 # About
 
 This repository allows to display crypto currencies mining stats on a 20 Characters x 4 Lines LCD Display using a Raspberry Pi (I'm using a Pi 1 Model B, but should work on the most recent models as well). It was specifically made for a Bitmain ASIC miner. However, it should be straightforward to support other platforms, such as GPU rigs, so feel free to contribute! It was initially developed for nicehash only, but later two more mining pools have been added. 
-Here's how it looks like in action:
-
-<img src="https://i.imgur.com/MgarjIc.gif">
+[Here's how it looks like in action](https://i.imgur.com/MgarjIc.gif)
 
 # Features
 

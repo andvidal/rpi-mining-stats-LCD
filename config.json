@@ -1,0 +1,17 @@
+{
+    "subnet": "192.168.2.",
+    "balance_check_interval": 60,
+
+    "nicehash_api": "https://api.nicehash.com/api?method=stats.provider&addr=<YOUR_BTC_ADDRESS>",
+    "litecoinpool_api": "https://www.litecoinpool.org/api?api_key=<YOUR_API_KEY>",
+    "miningpoolhub_api": "http://miningpoolhub.com/index.php?page=api&action=getuserallbalances&api_key=<YOUR_API_KEY>",
+
+    "mining_engine": "nicehash",
+
+    "ambient_temp_interval": 10,
+    "miner_heartbeat_interval": 300,
+    "crypto_price_check_interval": 1800,
+
+    "miner_user": "root",
+    "miner_pwd": "admin"
+}
